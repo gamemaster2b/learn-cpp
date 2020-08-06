@@ -1,5 +1,5 @@
-// Sonny Li
-// Fun Fact: I played guitar in a band called Attica.
+// Bill Lisi Musyimi
+// Fun Fact: I am just awesome.
 
 #include <iostream>
 
