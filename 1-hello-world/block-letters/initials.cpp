@@ -4,15 +4,7 @@
 #include <iostream>
 
 int main() {
-
-  std::cout << "  SSS   L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << " S      L     \n";
-  std::cout << "  SSS   L     \n";
-  std::cout << "     S  L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << "  SSS   LLLLL \n";
-
+  std::cout<<"BBBB  L     M   M\nB   B L     MM MM\nB   B L     M M M\nBBBB  L     M   M\nB   B L     M   M\nB   B L     M   M\nBBBB  LLLLL M   M\n";
   return 0;
 
 }
