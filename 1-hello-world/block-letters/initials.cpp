@@ -5,13 +5,13 @@
 
 int main() {
 
-  std::cout << "  SSS   L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << " S      L     \n";
-  std::cout << "  SSS   L     \n";
-  std::cout << "     S  L     \n";
-  std::cout << " S   S  L     \n";
-  std::cout << "  SSS   LLLLL \n";
+  std::cout << "BBBB  L     M   M\n";
+  std::cout << "B   B L     MM MM\n";
+  std::cout << "B   B L     M M M\n";
+  std::cout << "BBBB  L     M   M\n";
+  std::cout << "B   B L     M   M\n";
+  std::cout << "B   B L     M   M\n";
+  std::cout << "BBBB  LLLLL M   M\n";
 
   return 0;
 
