@@ -1,6 +1,6 @@
 // Bill Lisi Musyimi
 // Fun Fact: I am just awesome.
-
+//g++ 1-hello-world/block-letters/initials.cpp -o initials
 #include <iostream>
 
 int main() {
